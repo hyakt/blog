@@ -1,0 +1,15 @@
+title = "Nothing gold can stay."
+paginate = 5
+BaseURL = "https://notgold.net/"
+theme = "hugo-theme-pleasure"
+relativeURLs = false
+languageCode = "ja-jp"
+author = "Hayato Kajiyama"
+copyright = "Copyright (c) 2018, Hayato Kajiyama; all rights reserved."
+
+[params]
+favicon = "favicon.ico"
+subtitle = "遊びのあるエンジニアになりたい"
+
+analytics = "UA-112738928-1"
+github = "kajihaya"
